@@ -5,3 +5,4 @@
 - Backtesting
 - Journaling
 - Review
+- GitHub Desktop setup
