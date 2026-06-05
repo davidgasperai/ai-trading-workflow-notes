@@ -6,3 +6,4 @@
 - Journaling
 - Review
 - GitHub Desktop setup
+- GitHub activity tracking
