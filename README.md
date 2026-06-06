@@ -11,6 +11,15 @@ Current Focus
 * Automation ideas
 * Documentation structure
 
+Current Status
+
+Early-stage public workflow repository focused on:
+
+* AI-assisted research organization
+* GitHub and VS Code learning
+* Trading workflow documentation
+* Structured experimentation
+
 Tools
 
 * ChatGPT
