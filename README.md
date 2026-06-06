@@ -1,14 +1,41 @@
-# AI Trading Workflow Notes
+AI Trading Workflow Notes
 
-Public notes and workflows focused on:
+Public notes and workflow experiments focused on AI-assisted trading research, documentation, journaling, and automation.
 
-- AI-assisted research
-- Trading workflow organization
-- Automation experiments
-- Git/GitHub learning
-- Documentation systems
-- Personal productivity
+Current Focus
 
-This repository is intentionally focused on workflow structure and tooling rather than proprietary trading strategies.
+* AI-assisted trading research
+* TradingView workflow documentation
+* GitHub and VS Code learning
+* Research journaling
+* Automation ideas
+* Documentation structure
 
-Built as part of an ongoing exploration of AI-assisted systems and automation.
+Tools
+
+* ChatGPT
+* GitHub
+* VS Code
+* Obsidian
+* TradingView
+* Claude / Codex-style coding assistants
+
+Purpose
+
+This repository is a public learning and documentation space for building better research habits around trading systems and AI-assisted workflows.
+
+The goal is not to provide trading signals or financial advice.
+
+The focus is on workflow structure, documentation discipline, research organization, and transparent experimentation.
+
+Repository Structure
+
+* notes/ — general notes, checklists and templates
+* docs/ — longer documentation and workflow explanations
+* templates/ — reusable templates for future research notes
+
+Disclaimer
+
+This repository is for educational and research workflow purposes only.
+
+Nothing here should be considered financial advice.
