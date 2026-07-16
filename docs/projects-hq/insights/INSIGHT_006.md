@@ -49,4 +49,4 @@ Projects HQ · Systems Thinking · Architecture · AI Strategy · Long-Term Desi
 
 Revision
 
-v1.0 — 13. 07. 2026 (initial version)
+v1.0 — 13. 07. 2026 (initial version) 
