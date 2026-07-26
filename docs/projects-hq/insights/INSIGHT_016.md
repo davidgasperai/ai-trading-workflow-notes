@@ -4,7 +4,7 @@ Date: 24. 07. 2026
 
 Title
 
-Knowledge Becomes More Valuable When It Is Connected
+Knowledge Becomes More Valuable When It Is Connected 
 
 Core Idea
 
