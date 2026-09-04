@@ -4,7 +4,7 @@ Date: 03. 09. 2026
 
 Title
 
-The Safety Layer Must Sit Outside the Authority It Controls
+The Safety Layer Must Sit Outside the Authority It Controls 
 
 Core Idea
 
