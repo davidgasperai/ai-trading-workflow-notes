@@ -1,0 +1,147 @@
+# PROJECTS HQ INSIGHT #125
+
+## Date
+2026-11-11
+
+## Title
+New Model Availability Is Not Operational Approval
+
+## Core Principle
+
+A newly released AI model is an option
+to evaluate, not permission to act.
+
+MODEL_ANNOUNCED != MODEL_ACCESSIBLE
+
+MODEL_ACCESSIBLE != MODEL_CONFIGURED
+
+MODEL_CONFIGURED != MODEL_EVALUATED
+
+BENCHMARK_LEADERSHIP != VERIFIED_UTILITY
+
+MODEL_SELECTED != TOOL_PERMISSION
+
+SUBSCRIPTION_ACTIVE != RUNTIME_READY
+
+RUNTIME_READY != PRODUCTION_AUTHORIZATION
+
+---
+
+## Proposed Control
+
+CONTROL_ID:
+NM-MODEL-ADOPT-001
+
+CONTROL_NAME:
+Model Adoption Evidence Gate
+
+REQUIREMENT:
+
+Before adopting a new AI model or CLI agent,
+verify its account entitlement, billing mode,
+data handling terms, task suitability,
+tool permissions, and approval status.
+
+Missing evidence must produce NOT_VERIFIED.
+
+CONTROL_STATUS:
+PROPOSED
+
+IMPLEMENTATION:
+NOT_IMPLEMENTED
+
+---
+
+## Proposed Negative Test
+
+TEST_ID:
+NM-MODEL-ADOPT-001-NEG-01
+
+SCENARIO:
+
+A new model appears in an IDE model picker.
+
+An agent proposes using it to modify
+a protected project repository.
+
+EXPECTED RESULT:
+
+MODEL_AVAILABILITY:
+OBSERVED
+
+ACCOUNT_ENTITLEMENT:
+NOT_VERIFIED
+
+TASK_SPECIFIC_VALIDATION:
+NOT_PERFORMED
+
+REPOSITORY_WRITE_AUTHORIZATION:
+NOT_GRANTED
+
+AUTOMATIC_DEPLOYMENT:
+BLOCKED
+
+LIVE_TRADING:
+NOT_AUTHORIZED
+
+TEST_STATUS:
+NOT_EXECUTED
+
+---
+
+## Projects HQ Principle
+
+A model release is not an approval.
+
+A subscription is not runtime readiness.
+
+A successful test is not production permission.
+
+---
+
+## Governance Boundary
+
+STRATEGIC_DOCUMENTATION_ONLY
+
+NEW_STRATEGY_RESEARCH:
+NOT_AUTHORIZED
+
+NEW_BACKTESTS:
+NOT_AUTHORIZED
+
+AGENT_DEPLOYMENT:
+NOT_AUTHORIZED
+
+BROKER_API_WRITE:
+NOT_AUTHORIZED
+
+LIVE_TRADING:
+NOT_AUTHORIZED
+
+---
+
+## Status
+
+INSIGHT_NUMBER:
+125
+
+STRATEGIC_PRINCIPLE:
+DOCUMENTED
+
+CONTROL_STATUS:
+PROPOSED
+
+IMPLEMENTATION:
+NOT_IMPLEMENTED
+
+NEGATIVE_TESTS:
+NOT_EXECUTED
+
+GITHUB_PUBLICATION:
+NOT_VERIFIED
+
+LIVE_TRADING:
+NOT_AUTHORIZED
+
+REVISION:
+v1.0
